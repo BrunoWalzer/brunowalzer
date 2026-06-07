@@ -4,8 +4,7 @@
 ---
 
 ## About me  
-
-[EN]  
+  
 I am a backend developer focused on creating efficient applications and systems, always aiming to solve real problems in the user's context.  
 Passionate about technology and continuous learning, I believe that small achievements and recognizing my growth are what motivate me the most in my programming journey.  
 Currently, I am a Systems Information student at UNISINOS and a participant in Residência em TIC 55, a program that trains professionals specialized in technology.
