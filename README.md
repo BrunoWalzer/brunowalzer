@@ -1,18 +1,9 @@
-> 📄 Este README contém informações em português e inglês / This README contains information in Portuguese and English.
+
+### Hey! I'm Bruno, a backend developer passionate about solving challenges with code 🧑🏽‍💻
 
 ---
 
-### 🧑🏽‍💻 [PT-BR] Opa! Aqui é o Bruno, Desenvolvedor backend entusiasta em resolver desafios com código  
-### 🧑🏽‍💻 [EN] Hey! I'm Bruno, a backend developer passionate about solving challenges with code
-
----
-
-## Sobre mim / About me  
-
-[PT-BR]  
-Sou um desenvolvedor backend focado em criar aplicações e sistemas eficientes, sempre com o objetivo de resolver problemas reais no contexto do usuário.  
-Apaixonado por tecnologia e aprendizado contínuo, acredito que as pequenas conquistas e a percepção da minha evolução são o que mais me motivam na jornada como programador.  
-Atualmente, sou estudante de Sistemas de Informação na UNISINOS e participante da Residência em TIC 55, um programa que forma profissionais especializados em tecnologia.  
+## About me  
 
 [EN]  
 I am a backend developer focused on creating efficient applications and systems, always aiming to solve real problems in the user's context.  
@@ -28,7 +19,7 @@ Currently, I am a Systems Information student at UNISINOS and a participant in R
 
 ---
 
-### 🤖 Linguagens e Tecnologias / Languages and Technologies  
+### Languages and Technologies 🤖 
 
 <img 
     align="left" 
@@ -76,7 +67,7 @@ Currently, I am a Systems Information student at UNISINOS and a participant in R
 
 ---
 
-### 📊 Estatísticas / Statistics  
+### Statistics 📊 
 
 <p>
   <img 
